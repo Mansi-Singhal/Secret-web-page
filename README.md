@@ -6,3 +6,17 @@
 
 <h2>Running Project</h2>
 <h5>To run this project locally, run the following command npm start, this will start a local instance of the application & you will be able to run the app in your browser at this url <a href="url">http://localhost:3000/ </a> </h5>
+
+<h2>Welcome page</h2>
+
+
+<h2>Register page</h2>
+
+
+<h2>login page</h2>
+
+
+<h2>Secrets page</h2>
+
+
+<h2>Submit page</h2>
