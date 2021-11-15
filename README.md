@@ -9,8 +9,7 @@
 
 <h2>Welcome page</h2>
 <h5>Here user can register and longin, longin details wiil be stored in Mongodb Database</h5>
-![Screenshot (175)](https://user-images.githubusercontent.com/87571140/141749316-570c743f-9a50-422e-ae05-58eeb9e010d1.png)
-![](images
+<img src="images/wlcm.png" alt="wlcm">
 
 <h2>Register page</h2>
 
