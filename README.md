@@ -9,7 +9,7 @@
 
 <h2>Welcome page</h2>
 <h5>Here user can register and longin, longin details wiil be stored in Mongodb Database</h5>
-<IMG SRC="C:\Users\mansi\OneDrive\Pictures\Screenshots">
+<img src="C:\Users\mansi\OneDrive\Pictures\Screenshots" alt="wlcm img">
 
 <h2>Register page</h2>
 
