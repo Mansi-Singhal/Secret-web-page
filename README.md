@@ -8,6 +8,8 @@
 <h5>To run this project locally, run the following command npm start, this will start a local instance of the application & you will be able to run the app in your browser at this url <a href="url">http://localhost:3000/ </a> </h5>
 
 <h2>Welcome page</h2>
+<h5>Here user can register and longin, longin details wiil be stored in Mongodb Database</h5>
+C:\Users\mansi\OneDrive\Pictures\Screenshots
 
 
 <h2>Register page</h2>
