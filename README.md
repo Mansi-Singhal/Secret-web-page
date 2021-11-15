@@ -17,7 +17,7 @@
 
 <h2>login page</h2>
 <h5>Here user can register, user details wiil be stored in Mongodb Database</h5>
-<img src="images/login.png" alt="login">
+<img src="images/login.jpg" alt="login">
 
 <h2>Secrets page</h2>
 <h5>Here user can save their secrets.</h5>
