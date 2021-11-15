@@ -17,9 +17,12 @@
 
 <h2>login page</h2>
 <h5>Here user can register, user details wiil be stored in Mongodb Database</h5>
+<img src="images/login.png" alt="login">
 
 <h2>Secrets page</h2>
-<h5>Here user can share their secrets.</h5>
+<h5>Here user can save their secrets.</h5>
+<img src="images/secrets.png" alt="secrets">
 
 <h2>Submit page</h2>
 <h5>Here user submit their secrets, and all the user secrets are safe, nobody can read them.</h5>
+<img src="images/submit.png" alt="submit">
