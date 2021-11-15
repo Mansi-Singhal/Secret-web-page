@@ -12,12 +12,13 @@
 <img src="images/wlcm.png" alt="wlcm">
 
 <h2>Register page</h2>
-
+<h5>Here user can register, user details wiil be stored in Mongodb Database</h5>
 
 <h2>login page</h2>
-
+<h5>Here user can register, user details wiil be stored in Mongodb Database</h5>
 
 <h2>Secrets page</h2>
-
+<h5>Here user can share their secrets.</h5>
 
 <h2>Submit page</h2>
+<h5>Here user submit their secrets, and all the user secrets are safe, nobody can read them.</h5>
