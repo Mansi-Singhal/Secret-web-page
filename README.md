@@ -13,6 +13,7 @@
 
 <h2>Register page</h2>
 <h5>Here user can register, user details wiil be stored in Mongodb Database</h5>
+<img src="images/register.png" alt="register">
 
 <h2>login page</h2>
 <h5>Here user can register, user details wiil be stored in Mongodb Database</h5>
